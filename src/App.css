@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color: white;
+}
+
+.div2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 100%; */
+}
+
+.mainDiv {
+  height: 100vh;
+  padding: 1px;
+  text-align: center;
+  border: 2px solid black;
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+}
